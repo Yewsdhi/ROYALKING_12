@@ -22,8 +22,8 @@ class Config:
         self.SESSION2 = getenv("SESSION2", None)
         self.SESSION3 = getenv("SESSION3", None)
 
-        self.SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/ArchonNetwork")
-        self.SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/ArchonCare")
+        self.SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/ll_ROYAL_ABOUT_ll")
+        self.SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/hot_dpz_stor")
 
         self.API_URL = getenv("SHRUTI_API_URL", "https://api.shrutibots.site")
         self.API_KEY = getenv("SHRUTI_API_KEY", "ShrutiBotswFO5UMhbdcYIYaFcC17Y") ## Get This API KEY FROM TELEGRAM BOT USERNAME: @SHRUTIAPIBOT 
